@@ -1,0 +1,2667 @@
+{
+    "attachmentProfiles": {
+        "WeaponAttachmentSK_gl01_ru_glaunch_1": {
+            "cleanupDelay": 1.1109999418258667,
+            "offset": {
+                "X": 1.2999999523162842,
+                "Y": 4.0,
+                "Z": -33.400001525878906
+            },
+            "rotation": {
+                "Pitch": 94.5,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        },
+        "WeaponAttachmentSM_as01_en_x2scope_1": {
+            "cleanupDelay": 1.253000020980835,
+            "offset": {
+                "X": -1.0,
+                "Y": 2.799999952316284,
+                "Z": -1.7000000476837158
+            },
+            "rotation": {
+                "Pitch": 94.5,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        },
+        "WeaponAttachmentSM_as01_ru_x2scope_1": {
+            "cleanupDelay": 1.1410000324249268,
+            "offset": {
+                "X": -1.0,
+                "Y": 2.5,
+                "Z": -2.4000000953674316
+            },
+            "rotation": {
+                "Pitch": 85.5,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        },
+        "WeaponAttachmentSM_as02_en_x4scope_1": {
+            "cleanupDelay": 1.281000018119812,
+            "offset": {
+                "X": -0.8999999761581421,
+                "Y": 4.099999904632568,
+                "Z": -3.4000000953674316
+            },
+            "rotation": {
+                "Pitch": 88.69999694824219,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        },
+        "WeaponAttachmentSM_as02_ru_x4scope_1": {
+            "cleanupDelay": 1.1399999856948853,
+            "offset": {
+                "X": -1.399999976158142,
+                "Y": 2.700000047683716,
+                "Z": -6.300000190734863
+            },
+            "rotation": {
+                "Pitch": 0.0,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        },
+        "WeaponAttachmentSM_pt_apb_silencer": {
+            "cleanupDelay": 1.253000020980835,
+            "offset": {
+                "X": -2.299999952316284,
+                "Y": 3.799999952316284,
+                "Z": -10.600000381469727
+            },
+            "rotation": {
+                "Pitch": 94.5999984741211,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        },
+        "WeaponAttachmentSM_rds01_en_colimscope_1": {
+            "cleanupDelay": 1.1679999828338623,
+            "offset": {
+                "X": -1.399999976158142,
+                "Y": 4.0,
+                "Z": -2.5
+            },
+            "rotation": {
+                "Pitch": 0.0,
+                "Roll": 0.0,
+                "Yaw": -12.399999618530273
+            }
+        },
+        "WeaponAttachmentSM_rds02_en_goloscope_1": {
+            "cleanupDelay": 1.1959999799728394,
+            "offset": {
+                "X": -4.5,
+                "Y": 3.0,
+                "Z": -4.699999809265137
+            },
+            "rotation": {
+                "Pitch": 5.199999809265137,
+                "Roll": 0.0,
+                "Yaw": -3.799999952316284
+            }
+        },
+        "WeaponAttachmentSM_sc01_en_silen_1": {
+            "cleanupDelay": 1.1959999799728394,
+            "offset": {
+                "X": -2.0999999046325684,
+                "Y": 3.5999999046325684,
+                "Z": -9.600000381469727
+            },
+            "rotation": {
+                "Pitch": 86.80000305175781,
+                "Roll": 0.0,
+                "Yaw": -3.799999952316284
+            }
+        },
+        "WeaponAttachmentSM_sc01_ru_silen_1": {
+            "cleanupDelay": 1.1410000324249268,
+            "offset": {
+                "X": -1.2999999523162842,
+                "Y": 3.0,
+                "Z": 3.799999952316284
+            },
+            "rotation": {
+                "Pitch": 85.5,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        },
+        "WeaponAttachmentSM_sc02_en_silen_2": {
+            "cleanupDelay": 1.4210000038146973,
+            "offset": {
+                "X": -2.0999999046325684,
+                "Y": 3.700000047683716,
+                "Z": -4.800000190734863
+            },
+            "rotation": {
+                "Pitch": 92.0999984741211,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        },
+        "WeaponAttachmentSM_sc02_ru_silen_1_pm": {
+            "cleanupDelay": 1.281000018119812,
+            "offset": {
+                "X": -3.200000047683716,
+                "Y": 3.5999999046325684,
+                "Z": -9.899999618530273
+            },
+            "rotation": {
+                "Pitch": 75.4000015258789,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        },
+        "WeaponAttachmentSM_sc02_ru_silen_2": {
+            "cleanupDelay": 1.309000015258789,
+            "offset": {
+                "X": -1.5,
+                "Y": 2.5,
+                "Z": -8.5
+            },
+            "rotation": {
+                "Pitch": 94.5,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        },
+        "WeaponAttachmentSM_sc03_en_silen_3": {
+            "cleanupDelay": 1.253000020980835,
+            "offset": {
+                "X": -3.9000000953674316,
+                "Y": 3.5999999046325684,
+                "Z": -7.800000190734863
+            },
+            "rotation": {
+                "Pitch": 82.30000305175781,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        },
+        "WeaponAttachmentSM_sc03_ru_silen_3": {
+            "cleanupDelay": 1.0,
+            "offset": {
+                "X": -2.299999952316284,
+                "Y": 3.799999952316284,
+                "Z": -10.399999618530273
+            },
+            "rotation": {
+                "Pitch": 91.19999694824219,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        },
+        "WeaponAttachmentSM_sc04_en_silen_4": {
+            "cleanupDelay": 1.253000020980835,
+            "offset": {
+                "X": -3.200000047683716,
+                "Y": 2.5,
+                "Z": -10.0
+            },
+            "rotation": {
+                "Pitch": 85.5,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        },
+        "WeaponAttachmentSM_sc05_en_silen_5": {
+            "cleanupDelay": 1.253000020980835,
+            "offset": {
+                "X": -1.7000000476837158,
+                "Y": 2.4000000953674316,
+                "Z": -11.199999809265137
+            },
+            "rotation": {
+                "Pitch": 94.5,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        },
+        "WeaponAttachmentSM_sr_svu_SM_sr_svu_silencer": {
+            "cleanupDelay": 1.253000020980835,
+            "offset": {
+                "X": -2.4000000953674316,
+                "Y": 3.700000047683716,
+                "Z": 5.699999809265137
+            },
+            "rotation": {
+                "Pitch": -90.80000305175781,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        },
+        "WeaponAttachmentSM_ss01_en_x8scope_1": {
+            "cleanupDelay": 1.253000020980835,
+            "offset": {
+                "X": -0.699999988079071,
+                "Y": 2.5,
+                "Z": -10.0
+            },
+            "rotation": {
+                "Pitch": 85.5,
+                "Roll": 0.0,
+                "Yaw": 0.0
+            }
+        }
+    },
+    "conversationFOVThreshold": 80.0,
+    "cylinderDepth": 0.0010000000474974513,
+    "detectorHandPose": {
+        "jnt_l_hand_index_01": [
+            0.0,
+            -5.99,
+            0.0
+        ],
+        "jnt_l_hand_index_02": [
+            0.0,
+            40.541,
+            0.0
+        ],
+        "jnt_l_hand_index_03": [
+            0.0,
+            74.886,
+            0.0
+        ],
+        "jnt_l_hand_middle_01": [
+            4.775,
+            0.8069,
+            -0.011
+        ],
+        "jnt_l_hand_middle_02": [
+            0.0,
+            62.9598,
+            0.0
+        ],
+        "jnt_l_hand_middle_03": [
+            0.0,
+            66.552,
+            1.1246
+        ],
+        "jnt_l_hand_pinky_01": [
+            4.775,
+            0.8069,
+            -0.011
+        ],
+        "jnt_l_hand_pinky_02": [
+            0.0,
+            62.9598,
+            0.0
+        ],
+        "jnt_l_hand_pinky_03": [
+            0.0,
+            66.552,
+            1.1246
+        ],
+        "jnt_l_hand_ring_01": [
+            4.775,
+            0.8069,
+            -0.011
+        ],
+        "jnt_l_hand_ring_02": [
+            0.0,
+            62.9598,
+            0.0
+        ],
+        "jnt_l_hand_ring_03": [
+            0.0,
+            66.552,
+            1.1246
+        ],
+        "jnt_l_hand_thumb_01": [
+            -47.6922,
+            31.4799,
+            -147.713
+        ],
+        "jnt_l_hand_thumb_02": [
+            -11.407,
+            29.885,
+            5.6227
+        ],
+        "jnt_l_hand_thumb_03": [
+            -5.1727,
+            19.7849,
+            -0.1877
+        ]
+    },
+    "detectorOffset": {
+        "X": -2.0,
+        "Y": 2.0,
+        "Z": -3.0
+    },
+    "detectorProfiles": {
+        "sk_bpa_pla_01": {
+            "offset": {
+                "X": -2.0,
+                "Y": 2.0,
+                "Z": -3.0
+            },
+            "rotation": {
+                "Pitch": 0.0,
+                "Roll": 100.0,
+                "Yaw": 0.0
+            }
+        },
+        "sk_detector": {
+            "offset": {
+                "X": -4.699999809265137,
+                "Y": 3.200000047683716,
+                "Z": -2.9000000953674316
+            },
+            "rotation": {
+                "Pitch": -24.5,
+                "Roll": 94.0,
+                "Yaw": 33.5
+            }
+        },
+        "sk_detector_bear": {
+            "offset": {
+                "X": -2.0,
+                "Y": 2.0,
+                "Z": -3.0
+            },
+            "rotation": {
+                "Pitch": 0.0,
+                "Roll": 100.0,
+                "Yaw": 0.0
+            }
+        },
+        "sk_detector_echo": {
+            "offset": {
+                "X": -4.199999809265137,
+                "Y": 2.700000047683716,
+                "Z": -3.799999952316284
+            },
+            "rotation": {
+                "Pitch": -23.5,
+                "Roll": 72.5,
+                "Yaw": 40.0
+            }
+        },
+        "sk_detector_veles": {
+            "offset": {
+                "X": -1.7999999523162842,
+                "Y": 2.9000000953674316,
+                "Z": -1.5
+            },
+            "rotation": {
+                "Pitch": -27.0,
+                "Roll": 75.0,
+                "Yaw": 45.5
+            }
+        }
+    },
+    "detectorRotation": {
+        "Pitch": 0.0,
+        "Roll": 100.0,
+        "Yaw": 0.0
+    },
+    "disableDetectorPose": false,
+    "disableReloadAttachment": false,
+    "dominantHand": 1,
+    "enableConversationFix": true,
+    "gestures": {
+        "boltAction": true,
+        "flashlight": true,
+        "grenade": true,
+        "inventory": true,
+        "meleeWeapon": true,
+        "modeSwitch": true,
+        "pda": true,
+        "primaryWeapon": true,
+        "reload": true,
+        "scanner": true,
+        "secondaryWeapon": true,
+        "sidearmWeapon": true
+    },
+    "handTaperValue": 2.0,
+    "hapticFeedback": true,
+    "indoor": false,
+    "ladderHandPoseLeft": {
+        "jnt_l_hand_index_01": [
+            1.1249,
+            14.26,
+            0.0
+        ],
+        "jnt_l_hand_index_02": [
+            0.0,
+            81.55,
+            0.0
+        ],
+        "jnt_l_hand_index_03": [
+            0.0,
+            27.1368,
+            0.0
+        ],
+        "jnt_l_hand_middle_01": [
+            4.775,
+            33.8838,
+            -0.011
+        ],
+        "jnt_l_hand_middle_02": [
+            0.0,
+            91.148,
+            0.0
+        ],
+        "jnt_l_hand_middle_03": [
+            0.0,
+            26.9999,
+            1.1247
+        ],
+        "jnt_l_hand_pinky_01": [
+            9.2749,
+            13.5,
+            -6.7611
+        ],
+        "jnt_l_hand_pinky_02": [
+            0.0,
+            91.148,
+            0.0
+        ],
+        "jnt_l_hand_pinky_03": [
+            0.0,
+            26.9999,
+            1.1247
+        ],
+        "jnt_l_hand_ring_01": [
+            9.2749,
+            33.8838,
+            -0.011
+        ],
+        "jnt_l_hand_ring_02": [
+            0.0,
+            91.148,
+            0.0
+        ],
+        "jnt_l_hand_ring_03": [
+            0.0,
+            26.9999,
+            1.1247
+        ],
+        "jnt_l_hand_thumb_01": [
+            -21.862,
+            -22.882,
+            -64.8135
+        ],
+        "jnt_l_hand_thumb_02": [
+            -11.407,
+            29.885,
+            5.6227
+        ],
+        "jnt_l_hand_thumb_03": [
+            -5.1727,
+            19.7849,
+            -0.1875
+        ]
+    },
+    "ladderHandPoseRight": {
+        "jnt_r_hand_index_01": [
+            3.1019,
+            31.694,
+            26.9729
+        ],
+        "jnt_r_hand_index_02": [
+            0.0,
+            75.163,
+            0.0
+        ],
+        "jnt_r_hand_index_03": [
+            0.0,
+            59.6249,
+            0.0
+        ],
+        "jnt_r_hand_middle_01": [
+            1.7867,
+            74.2499,
+            4.511
+        ],
+        "jnt_r_hand_middle_02": [
+            0.0,
+            99.023,
+            0.0
+        ],
+        "jnt_r_hand_middle_03": [
+            0.0,
+            15.0909,
+            0.0
+        ],
+        "jnt_r_hand_pinky_01": [
+            1.7867,
+            70.8749,
+            -8.9891
+        ],
+        "jnt_r_hand_pinky_02": [
+            0.0,
+            99.023,
+            0.0
+        ],
+        "jnt_r_hand_pinky_03": [
+            0.0,
+            9.4659,
+            0.0
+        ],
+        "jnt_r_hand_ring_01": [
+            1.7867,
+            74.384,
+            -6.7501
+        ],
+        "jnt_r_hand_ring_02": [
+            0.0,
+            99.023,
+            0.0
+        ],
+        "jnt_r_hand_ring_03": [
+            0.0,
+            15.0909,
+            0.0
+        ],
+        "jnt_r_hand_thumb_01": [
+            -20.771,
+            16.5048,
+            -136.8151
+        ],
+        "jnt_r_hand_thumb_02": [
+            -18.8,
+            19.652,
+            12.7805
+        ],
+        "jnt_r_hand_thumb_03": [
+            0.0,
+            20.9109,
+            0.0
+        ]
+    },
+    "magLocalX": 0,
+    "magLocalY": 0,
+    "magLocalZ": 0,
+    "magScaleX": 0.05,
+    "magScaleY": 0.1,
+    "magScaleZ": 0.3,
+    "magSocket1": "tag_mag_01_socket",
+    "magSocket2": "Magazine",
+    "montageAttachmentList": {
+        "1": "MG_fp_bh_stash",
+        "2": "MG_fp_energy_drink_use",
+        "Ladder": {
+            "left": {
+                "pos": [
+                    -19.0,
+                    5.099999904632568,
+                    -0.20000000298023224
+                ],
+                "rot": [
+                    0.800000011920929,
+                    142.39999389648438,
+                    0
+                ],
+                "socket": "jnt_l_hand"
+            },
+            "right": {
+                "pos": [
+                    21.399999618530273,
+                    9.300000190734863,
+                    -0.800000011920929
+                ],
+                "rot": [
+                    3.5999999046325684,
+                    6.800000190734863,
+                    -159.39999389648438
+                ],
+                "socket": "jnt_r_hand"
+            }
+        },
+        "MG_fp_bh_equip": {
+            "left": {
+                "pos": [
+                    -0.8999999761581421,
+                    0,
+                    0
+                ],
+                "rot": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "right": {
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "rot": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        },
+        "MG_fp_bh_stash": {
+            "left": {
+                "pos": [
+                    -6.199999809265137,
+                    -3.5999999046325684,
+                    18.899999618530273
+                ],
+                "rot": [
+                    49.70000076293945,
+                    6.900000095367432,
+                    -104.80000305175781
+                ]
+            },
+            "right": {
+                "pos": [
+                    14.899999618530273,
+                    9.699999809265137,
+                    -17.5
+                ],
+                "rot": [
+                    -111.19999694824219,
+                    102.80000305175781,
+                    -15.399999618530273
+                ]
+            }
+        },
+        "MG_fp_energy_drink_use": {
+            "left": {
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "rot": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "right": {
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "rot": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        },
+        "MG_fp_vodka_use": {
+            "left": {
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "rot": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "right": {
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "rot": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "recoil": true,
+    "reloadHandLocation": [
+        -11.600000381469727,
+        3.9000000953674316,
+        -0.699999988079071
+    ],
+    "reloadHandPose": {
+        "jnt_l_hand_index_01": [
+            1.1249,
+            14.26,
+            0.0
+        ],
+        "jnt_l_hand_index_02": [
+            0.0,
+            81.55,
+            0.0
+        ],
+        "jnt_l_hand_index_03": [
+            0.0,
+            27.1368,
+            0.0
+        ],
+        "jnt_l_hand_middle_01": [
+            4.775,
+            33.8838,
+            -0.011
+        ],
+        "jnt_l_hand_middle_02": [
+            0.0,
+            91.148,
+            0.0
+        ],
+        "jnt_l_hand_middle_03": [
+            0.0,
+            26.9999,
+            1.1247
+        ],
+        "jnt_l_hand_pinky_01": [
+            9.2749,
+            13.5,
+            -6.7611
+        ],
+        "jnt_l_hand_pinky_02": [
+            0.0,
+            91.148,
+            0.0
+        ],
+        "jnt_l_hand_pinky_03": [
+            0.0,
+            26.9999,
+            1.1247
+        ],
+        "jnt_l_hand_ring_01": [
+            9.2749,
+            33.8838,
+            -0.011
+        ],
+        "jnt_l_hand_ring_02": [
+            0.0,
+            91.148,
+            0.0
+        ],
+        "jnt_l_hand_ring_03": [
+            0.0,
+            26.9999,
+            1.1247
+        ],
+        "jnt_l_hand_thumb_01": [
+            -21.862,
+            -22.882,
+            -64.8135
+        ],
+        "jnt_l_hand_thumb_02": [
+            -11.407,
+            29.885,
+            5.6227
+        ],
+        "jnt_l_hand_thumb_03": [
+            -5.1727,
+            19.7849,
+            -0.1875
+        ]
+    },
+    "reloadHandRotation": [
+        -126.5,
+        -28.100000381469727,
+        163.10000610351563
+    ],
+    "reloadSocketName": "jnt_l_hand",
+    "scopeActivationDistance": 11.95300006866455,
+    "scopeBrightnessAmplifier": 1.049768676757813,
+    "scopeDiameter": 0.028999999165534973,
+    "scopeMagnifier": 0.07000000029802322,
+    "scopeProfiles": {
+        "SM_ar_dnipro_skin_centurion_attachments_scope": {
+            "scopeBrightness": 1.0,
+            "scopeMagnifier": 0.08100000023841858,
+            "scopeOffset": 0.0020000000949949026,
+            "scopeScale": 0.027000000700354576
+        },
+        "SM_ar_gp3_rail_scope": {
+            "scopeBrightness": 0.6358129882812499,
+            "scopeMagnifier": 0.10000000149011612,
+            "scopeOffset": 0.0010000000474974513,
+            "scopeScale": 0.01899999938905239
+        },
+        "SM_as01_en_x2scope_1": {
+            "scopeBrightness": 1.0,
+            "scopeMagnifier": 0.07999999821186066,
+            "scopeOffset": 0.0010000000474974513,
+            "scopeScale": 0.026000000536441803
+        },
+        "SM_as01_ru_x2scope_1": {
+            "scopeBrightness": 1.0,
+            "scopeMagnifier": 0.07699999958276749,
+            "scopeOffset": 0.0010000000474974513,
+            "scopeScale": 0.024000000208616257
+        },
+        "SM_as02_en_x4scope_1": {
+            "scopeBrightness": 1.0,
+            "scopeMagnifier": 0.07000000029802322,
+            "scopeOffset": 0.0010000000474974513,
+            "scopeScale": 0.02199999988079071
+        },
+        "SM_as02_ru_x4scope_1": {
+            "scopeBrightness": 1.049768676757813,
+            "scopeMagnifier": 0.07000000029802322,
+            "scopeOffset": 0.0010000000474974513,
+            "scopeScale": 0.028999999165534973
+        },
+        "SM_pt_ups_skin_deadeye_scope": {
+            "scopeBrightness": 0.5825140380859378,
+            "scopeMagnifier": 0.85,
+            "scopeOffset": 0.0,
+            "scopeScale": 0.024
+        },
+        "SM_rds01_en_colimscope_1": {
+            "scopeBrightness": 0.5825140380859378,
+            "scopeMagnifier": 0.85,
+            "scopeOffset": 0.045,
+            "scopeScale": 0.024
+        },
+        "SM_rds02_en_goloscope_1": {
+            "scopeBrightness": 1.0,
+            "scopeMagnifier": 0.85,
+            "scopeOffset": 0.045,
+            "scopeScale": 0.024
+        },
+        "SM_rds1_ru_colimscope_mini_01": {
+            "scopeBrightness": 0.80850830078125,
+            "scopeMagnifier": 0.85,
+            "scopeOffset": 0.045,
+            "scopeScale": 0.024
+        },
+        "SM_sr_threeline_scope": {
+            "scopeBrightness": 0.7064578247070312,
+            "scopeMagnifier": 0.07999999821186066,
+            "scopeOffset": 0.0010000000474974513,
+            "scopeScale": 0.02800000086426735
+        },
+        "SM_ss01_en_x8scope_1": {
+            "scopeBrightness": 0.5825140380859378,
+            "scopeMagnifier": 0.03999999910593033,
+            "scopeOffset": 0.0010000000474974513,
+            "scopeScale": 0.03200000151991844
+        },
+        "SM_ss01_ru_x8scope_1": {
+            "scopeBrightness": 0.5562329101562503,
+            "scopeMagnifier": 0.05900000035762787,
+            "scopeOffset": 0.0010000000474974513,
+            "scopeScale": 0.02800000086426735
+        },
+        "SM_ss_gauss_scope": {
+            "scopeMagnifier": 0.03999999910593033,
+            "scopeOffset": 0.0010000000474974513,
+            "scopeScale": 0.024
+        }
+    },
+    "scopeTextureSize": 1024,
+    "sittingExperience": false,
+    "twoHandedAiming": true,
+    "twoHandedHandPose": {
+        "jnt_l_hand_index_01": [
+            -1.1251,
+            32.2599,
+            0.0
+        ],
+        "jnt_l_hand_index_02": [
+            0.0,
+            104.05,
+            0.0
+        ],
+        "jnt_l_hand_index_03": [
+            0.0,
+            27.1369,
+            0.0
+        ],
+        "jnt_l_hand_middle_01": [
+            1.4002,
+            1.2588,
+            -0.011
+        ],
+        "jnt_l_hand_middle_02": [
+            0.0,
+            7.8976,
+            0.0
+        ],
+        "jnt_l_hand_middle_03": [
+            0.0,
+            -5.1589,
+            0.0
+        ],
+        "jnt_l_hand_pinky_01": [
+            0.0,
+            5.9195,
+            0.0
+        ],
+        "jnt_l_hand_pinky_02": [
+            0.0,
+            -4.7578,
+            0.0
+        ],
+        "jnt_l_hand_pinky_03": [
+            0.0,
+            1.363,
+            0.0
+        ],
+        "jnt_l_hand_ring_01": [
+            2.5187,
+            2.5438,
+            0.0
+        ],
+        "jnt_l_hand_ring_02": [
+            0.0,
+            5.8665,
+            0.0
+        ],
+        "jnt_l_hand_ring_03": [
+            0.0,
+            -2.6579,
+            0.0
+        ],
+        "jnt_l_hand_thumb_01": [
+            -43.237,
+            6.3683,
+            -64.8135
+        ],
+        "jnt_l_hand_thumb_02": [
+            -1.2819,
+            11.8847,
+            5.6227
+        ],
+        "jnt_l_hand_thumb_03": [
+            -5.1727,
+            -19.5895,
+            -0.1875
+        ]
+    },
+    "twoHandedRifleHandPose": {
+        "jnt_l_hand_index_01": [
+            -8.9441,
+            39.484,
+            22.5675
+        ],
+        "jnt_l_hand_index_02": [
+            -0.0013,
+            40.9039,
+            0.0061
+        ],
+        "jnt_l_hand_index_03": [
+            0.0071,
+            61.8355,
+            -0.0029
+        ],
+        "jnt_l_hand_middle_01": [
+            -2.3625,
+            45.3568,
+            17.9673
+        ],
+        "jnt_l_hand_middle_02": [
+            -0.0062,
+            72.669,
+            0.0012
+        ],
+        "jnt_l_hand_middle_03": [
+            0.0074,
+            29.25,
+            0.0008
+        ],
+        "jnt_l_hand_pinky_01": [
+            -1.408,
+            65.0016,
+            11.9496
+        ],
+        "jnt_l_hand_pinky_02": [
+            0.0015,
+            45.172,
+            0.0006
+        ],
+        "jnt_l_hand_pinky_03": [
+            0.0,
+            16.52,
+            0.0
+        ],
+        "jnt_l_hand_ring_01": [
+            -5.876,
+            64.2745,
+            13.9615
+        ],
+        "jnt_l_hand_ring_02": [
+            -0.0062,
+            60.6228,
+            -0.0011
+        ],
+        "jnt_l_hand_ring_03": [
+            0.0075,
+            14.4739,
+            0.0006
+        ],
+        "jnt_l_hand_thumb_01": [
+            -32.155,
+            -29.7291,
+            -55.6748
+        ],
+        "jnt_l_hand_thumb_02": [
+            0.0,
+            19.138,
+            0.0
+        ],
+        "jnt_l_hand_thumb_03": [
+            -0.0036,
+            -14.3747,
+            0.0021
+        ]
+    },
+    "virtualGunstock": false,
+    "weaponHandLocation": [
+        8.899999618530273,
+        0.20000000298023224,
+        -5.099999904632568
+    ],
+    "weaponHandRotation": [
+        -1.5,
+        0.6000000238418579,
+        -161.1999969482422
+    ],
+    "weaponModCleanupDelay": 1.1109999418258667,
+    "weaponModMeshOffset": {
+        "X": 1.2999999523162842,
+        "Y": 4.0,
+        "Z": -33.400001525878906
+    },
+    "weaponModMeshRotation": {
+        "Pitch": 94.5,
+        "Roll": 0.0,
+        "Yaw": 0.0
+    },
+    "weaponProfiles": {
+        "SK_AK74": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.899999618530273,
+                0.20000000298023224,
+                -5.099999904632568
+            ],
+            "magBox": {
+                "handOffX": -4.199999809265137,
+                "handOffY": 0.30000001192092896,
+                "handOffZ": -2.9000000953674316,
+                "handRotX": 0,
+                "handRotY": 0,
+                "handRotZ": 7.0,
+                "handX": 0.20000000298023224,
+                "handY": 0.09000000357627869,
+                "handZ": 0.14000000059604645,
+                "magOffX": 1.0,
+                "magOffY": 0.6000000238418579,
+                "magOffZ": -9.699999809265137,
+                "magSocket": "jnt_magazine",
+                "magX": 0.09000000357627869,
+                "magY": 0.11999999731779099,
+                "magZ": 0.25999999046325684
+            },
+            "reloadLocation": [
+                -11.600000381469727,
+                3.9000000953674316,
+                -0.699999988079071
+            ],
+            "reloadRotation": [
+                -126.5,
+                -28.100000381469727,
+                163.10000610351563
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                -1.5,
+                0.6000000238418579,
+                -161.1999969482422
+            ],
+            "scopeMagnifier": 0.03999999910593033,
+            "scopeOffset": 0.003000000026077032,
+            "scopeScale": 0.03200000151991844,
+            "socket": "jnt_r_hand",
+            "twoHandBox": {
+                "offX": -12.300000190734863,
+                "offY": 2.4000000953674316,
+                "offZ": 2.5999999046325684,
+                "rotX": 12.0,
+                "rotY": 30.0,
+                "rotZ": -14.0,
+                "scaleX": 0.09000000357627869,
+                "scaleY": 0.11999999731779099,
+                "scaleZ": 0.12999999523162842,
+                "socket": "jnt_l_hand"
+            }
+        },
+        "SK_F1": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.600000381469727,
+                2.200000047683716,
+                -3.4000000953674316
+            ],
+            "reloadLocation": [
+                -8.800000190734863,
+                3.700000047683716,
+                1.899999976158142
+            ],
+            "reloadRotation": [
+                -158.60000610351563,
+                -42.099998474121094,
+                181.1999969482422
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                0,
+                -8.399999618530273,
+                -179.0
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_RGD5": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.100000381469727,
+                2.0999999046325684,
+                -4.300000190734863
+            ],
+            "reloadLocation": [
+                -8.800000190734863,
+                3.700000047683716,
+                1.899999976158142
+            ],
+            "reloadRotation": [
+                -158.60000610351563,
+                -42.099998474121094,
+                181.1999969482422
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                0,
+                0,
+                -172.60000610351563
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_ThreeLine": {
+            "disableReloadAttachment": false,
+            "location": [
+                10.699999809265137,
+                0.4000000059604645,
+                -4.599999904632568
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -7.400000095367432,
+                "magSocket": "jnt_magazine_follower",
+                "magX": 0.12999999523162842,
+                "magY": 0.1,
+                "magZ": 0.1599999964237213
+            },
+            "reloadLocation": [
+                -13.300000190734863,
+                3.5,
+                0
+            ],
+            "reloadRotation": [
+                240.89999389648438,
+                -27.899999618530273,
+                -185.60000610351563
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                28.0,
+                -31.700000762939453,
+                170.0
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_Toz34": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.899999618530273,
+                -1.100000023841858,
+                -7.0
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0.10000000149011612,
+                "magOffY": -0.4000000059604645,
+                "magOffZ": 0,
+                "magSocket": "jnt_ejector",
+                "magX": 0.23999999463558197,
+                "magY": 0.10999999940395355,
+                "magZ": 0.23999999463558197
+            },
+            "reloadLocation": [
+                -9.300000190734863,
+                3.799999952316284,
+                1.100000023841858
+            ],
+            "reloadRotation": [
+                -124.80000305175781,
+                -34.0,
+                173.0
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                20.899999618530273,
+                -12.699999809265137,
+                -164.6999969482422
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_aku": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.899999618530273,
+                2.5999999046325684,
+                -4.599999904632568
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": -1.600000023841858,
+                "magOffY": 1.600000023841858,
+                "magOffZ": -4.199999809265137,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.07999999821186066,
+                "magY": 0.1,
+                "magZ": 0.3
+            },
+            "reloadLocation": [
+                -10.800000190734863,
+                2.299999952316284,
+                1.0
+            ],
+            "reloadRotation": [
+                -130.89999389648438,
+                -27.799999237060547,
+                156.5
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                -2.9000000953674316,
+                -10.600000381469727,
+                -171.6999969482422
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_apb": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.199999809265137,
+                2.0,
+                -4.099999904632568
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": -1.600000023841858,
+                "magOffY": 0.5,
+                "magOffZ": -13.800000190734863,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.05,
+                "magY": 0.1,
+                "magZ": 0.18000000715255737
+            },
+            "reloadLocation": [
+                -8.5,
+                3.299999952316284,
+                3.5999999046325684
+            ],
+            "reloadRotation": [
+                -164.6999969482422,
+                -39.0,
+                185.89999389648438
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                0,
+                0.20000000298023224,
+                -172.10000610351563
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_bolt": {
+            "disableReloadAttachment": false,
+            "location": [
+                9.100000381469727,
+                1.7000000476837158,
+                -5.0
+            ],
+            "reloadLocation": [
+                -8.800000190734863,
+                3.700000047683716,
+                1.899999976158142
+            ],
+            "reloadRotation": [
+                -158.60000610351563,
+                -42.099998474121094,
+                181.1999969482422
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                0,
+                -0.20000000298023224,
+                -199.5
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_bucket0": {
+            "disableReloadAttachment": false,
+            "location": [
+                7.599999904632568,
+                1.5,
+                -4.5
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -3.700000047683716,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.05,
+                "magY": 0.1,
+                "magZ": 0.25
+            },
+            "reloadLocation": [
+                -8.800000190734863,
+                2.9000000953674316,
+                0.10000000149011612
+            ],
+            "reloadRotation": [
+                -158.10000610351563,
+                -39.0,
+                173.39999389648438
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                -7.099999904632568,
+                7.599999904632568,
+                -164.89999389648438
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_d1200": {
+            "disableReloadAttachment": false,
+            "location": [
+                9.0,
+                0.699999988079071,
+                -3.799999952316284
+            ],
+            "reloadLocation": [
+                -8.699999809265137,
+                3.799999952316284,
+                3.0
+            ],
+            "reloadRotation": [
+                -14.899999618530273,
+                133.5,
+                -1.399999976158142
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                3.0,
+                -7.800000190734863,
+                193.60000610351563
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_dnipro": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.199999809265137,
+                3.0,
+                -4.0
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -5.699999809265137,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.12999999523162842,
+                "magY": 0.1,
+                "magZ": 0.23999999463558197
+            },
+            "reloadLocation": [
+                -10.399999618530273,
+                3.0999999046325684,
+                3.0
+            ],
+            "reloadRotation": [
+                -172.8000030517578,
+                -29.200000762939453,
+                150.10000610351563
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                -0.30000001192092896,
+                0.0,
+                -183.10000610351563
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_fora0": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.300000190734863,
+                -1.2999999523162842,
+                -4.699999809265137
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -6.699999809265137,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.09000000357627869,
+                "magY": 0.1,
+                "magZ": 0.3
+            },
+            "reloadLocation": [
+                -11.899999618530273,
+                2.200000047683716,
+                2.299999952316284
+            ],
+            "reloadRotation": [
+                -162.1999969482422,
+                -7.900000095367432,
+                156.39999389648438
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                -0.10000000149011612,
+                -22.200000762939453,
+                -172.60000610351563
+            ],
+            "scopeMagnifier": 0.07999999821186066,
+            "scopeOffset": 0.0010000000474974513,
+            "scopeScale": 0.027000000700354576,
+            "socket": "jnt_r_hand"
+        },
+        "SK_gauss": {
+            "disableReloadAttachment": false,
+            "location": [
+                9.5,
+                1.0,
+                -4.099999904632568
+            ],
+            "reloadLocation": [
+                -9.199999809265137,
+                4.800000190734863,
+                -0.20000000298023224
+            ],
+            "reloadRotation": [
+                -131.60000610351563,
+                -38.29999923706055,
+                165.8000030517578
+            ],
+            "rotation": [
+                0,
+                0,
+                -177.8000030517578
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_gp37": {
+            "disableReloadAttachment": false,
+            "location": [
+                7.199999809265137,
+                2.5,
+                -3.5
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -5.400000095367432,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.09000000357627869,
+                "magY": 0.1,
+                "magZ": 0.3
+            },
+            "reloadLocation": [
+                -10.100000381469727,
+                2.9000000953674316,
+                -0.6000000238418579
+            ],
+            "reloadRotation": [
+                -136.10000610351563,
+                -18.600000381469727,
+                134.0
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                -1.2000000476837158,
+                0.6000000238418579,
+                -175.6999969482422
+            ],
+            "scopeMagnifier": 0.03999999910593033,
+            "scopeOffset": 0.0010000000474974513,
+            "scopeScale": 0.024,
+            "socket": "jnt_r_hand"
+        },
+        "SK_grim0": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.899999618530273,
+                0.8999999761581421,
+                -5.199999809265137
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -2.200000047683716,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.12999999523162842,
+                "magY": 0.1,
+                "magZ": 0.23000000417232513
+            },
+            "reloadLocation": [
+                -12.5,
+                3.0999999046325684,
+                2.0999999046325684
+            ],
+            "reloadRotation": [
+                -129.10000610351563,
+                -42.099998474121094,
+                181.1999969482422
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                0,
+                0,
+                -167.89999389648438
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_gvi": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.899999618530273,
+                -0.800000011920929,
+                -4.599999904632568
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": -1.899999976158142,
+                "magOffY": 0,
+                "magOffZ": -2.299999952316284,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.07999999821186066,
+                "magY": 0.1,
+                "magZ": 0.18000000715255737
+            },
+            "reloadLocation": [
+                -10.300000190734863,
+                3.700000047683716,
+                0.0
+            ],
+            "reloadRotation": [
+                -128.5,
+                -39.0,
+                175.0
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                4.400000095367432,
+                -9.600000381469727,
+                -159.39999389648438
+            ],
+            "scopeMagnifier": 0.03999999910593033,
+            "scopeOffset": 0.0010000000474974513,
+            "scopeScale": 0.02800000086426735,
+            "socket": "jnt_r_hand"
+        },
+        "SK_integ": {
+            "disableReloadAttachment": false,
+            "location": [
+                9.100000381469727,
+                1.7000000476837158,
+                -4.300000190734863
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": -4.5,
+                "magOffY": 0,
+                "magOffZ": -12.399999618530273,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.10000000149011612,
+                "magY": 0.1,
+                "magZ": 0.28999999165534973
+            },
+            "reloadLocation": [
+                -9.800000190734863,
+                1.399999976158142,
+                1.0
+            ],
+            "reloadRotation": [
+                -167.3000030517578,
+                -26.600000381469727,
+                181.1999969482422
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                -1.2000000476837158,
+                -15.300000190734863,
+                -182.8000030517578
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_kharod000": {
+            "disableReloadAttachment": false,
+            "location": [
+                7.400000095367432,
+                1.2000000476837158,
+                -4.300000190734863
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -5.900000095367432,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.10999999940395355,
+                "magY": 0.1,
+                "magZ": 0.3
+            },
+            "reloadLocation": [
+                -10.199999809265137,
+                2.9000000953674316,
+                3.700000047683716
+            ],
+            "reloadRotation": [
+                -159.10000610351563,
+                -42.099998474121094,
+                181.1999969482422
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                -3.0,
+                -30.0,
+                -175.6999969482422
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_knife": {
+            "disableReloadAttachment": false,
+            "location": [
+                7.800000190734863,
+                1.7999999523162842,
+                -3.299999952316284
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": 0,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.05,
+                "magY": 0.1,
+                "magZ": 0.3
+            },
+            "reloadLocation": [
+                11.199999809265137,
+                7.400000095367432,
+                -0.699999988079071
+            ],
+            "reloadRotation": [
+                20.299999237060547,
+                27.0,
+                169.0
+            ],
+            "reloadSocket": "jnt_r_hand",
+            "rotation": [
+                -7.099999904632568,
+                12.699999809265137,
+                -171.6999969482422
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_kora": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.800000190734863,
+                0.6000000238418579,
+                -4.099999904632568
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": -1.7000000476837158,
+                "magOffY": 0,
+                "magOffZ": -14.199999809265137,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.05,
+                "magY": 0.1,
+                "magZ": 0.1599999964237213
+            },
+            "reloadLocation": [
+                -9.100000381469727,
+                3.200000047683716,
+                3.200000047683716
+            ],
+            "reloadRotation": [
+                -35.20000076293945,
+                135.3000030517578,
+                7.699999809265137
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                4.5,
+                4.300000190734863,
+                196.10000610351563
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_lav": {
+            "disableReloadAttachment": false,
+            "location": [
+                9.100000381469727,
+                -0.10000000149011612,
+                -4.300000190734863
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -5.699999809265137,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.09000000357627869,
+                "magY": 0.1,
+                "magZ": 0.20999999344348907
+            },
+            "reloadLocation": [
+                -10.800000190734863,
+                3.5999999046325684,
+                2.200000047683716
+            ],
+            "reloadRotation": [
+                -167.89999389648438,
+                -32.400001525878906,
+                158.6999969482422
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                -1.7999999523162842,
+                -16.0,
+                -169.60000610351563
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_m1000": {
+            "disableReloadAttachment": false,
+            "location": [
+                7.900000095367432,
+                0.699999988079071,
+                -1.7999999523162842
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -16.399999618530273,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.05,
+                "magY": 0.1,
+                "magZ": 0.23999999463558197
+            },
+            "reloadLocation": [
+                -8.600000381469727,
+                2.299999952316284,
+                1.899999976158142
+            ],
+            "reloadRotation": [
+                -162.5,
+                -42.099998474121094,
+                181.1999969482422
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                0.4000000059604645,
+                -9.399999618530273,
+                -171.6999969482422
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_m160": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.100000381469727,
+                2.5999999046325684,
+                -5.900000095367432
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -6.199999809265137,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.10999999940395355,
+                "magY": 0.1,
+                "magZ": 0.3
+            },
+            "reloadLocation": [
+                -8.899999618530273,
+                4.199999809265137,
+                -0.5
+            ],
+            "reloadRotation": [
+                -111.19999694824219,
+                -42.099998474121094,
+                174.39999389648438
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                6.099999904632568,
+                0.6000000238418579,
+                -177.89999389648438
+            ],
+            "scopeMagnifier": 0.019999999552965164,
+            "scopeOffset": 0.0010000000474974513,
+            "scopeScale": 0.03400000184774399,
+            "socket": "jnt_r_hand"
+        },
+        "SK_m701": {
+            "disableReloadAttachment": false,
+            "location": [
+                10.300000190734863,
+                -1.5,
+                -6.699999809265137
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": -0.800000011920929,
+                "magOffY": 0,
+                "magOffZ": -7.5,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.14000000059604645,
+                "magY": 0.1,
+                "magZ": 0.14000000059604645
+            },
+            "reloadLocation": [
+                -12.800000190734863,
+                4.699999809265137,
+                3.0
+            ],
+            "reloadRotation": [
+                -139.5,
+                -69.0,
+                206.10000610351563
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                8.100000381469727,
+                -15.800000190734863,
+                -175.60000610351563
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_m86000": {
+            "disableReloadAttachment": false,
+            "location": [
+                10.0,
+                -0.10000000149011612,
+                -4.300000190734863
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -5.5,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.1899999976158142,
+                "magY": 0.1,
+                "magZ": 0.25
+            },
+            "reloadLocation": [
+                -13.899999618530273,
+                3.799999952316284,
+                0.699999988079071
+            ],
+            "reloadRotation": [
+                -137.10000610351563,
+                -25.399999618530273,
+                166.10000610351563
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                1.7999999523162842,
+                -11.899999618530273,
+                -165.8000030517578
+            ],
+            "scopeMagnifier": 0.03999999910593033,
+            "scopeOffset": 0.0020000000949949026,
+            "scopeScale": 0.024,
+            "socket": "jnt_r_hand"
+        },
+        "SK_mar": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.699999809265137,
+                3.200000047683716,
+                -3.700000047683716
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -5.5,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.09000000357627869,
+                "magY": 0.1,
+                "magZ": 0.20000000298023224
+            },
+            "reloadLocation": [
+                -9.199999809265137,
+                4.800000190734863,
+                -0.20000000298023224
+            ],
+            "reloadRotation": [
+                -131.60000610351563,
+                -38.29999923706055,
+                165.8000030517578
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                -1.2000000476837158,
+                0.6000000238418579,
+                -186.6999969482422
+            ],
+            "scopeMagnifier": 0.019999999552965164,
+            "scopeOffset": 0.0010000000474974513,
+            "scopeScale": 0.032999999821186066,
+            "socket": "jnt_r_hand"
+        },
+        "SK_obrez": {
+            "disableReloadAttachment": false,
+            "location": [
+                11.199999809265137,
+                2.9000000953674316,
+                -4.599999904632568
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -3.700000047683716,
+                "magSocket": "jnt_barrel_latch",
+                "magX": 0.12999999523162842,
+                "magY": 0.10999999940395355,
+                "magZ": 0.20999999344348907
+            },
+            "reloadLocation": [
+                -10.199999809265137,
+                0.800000011920929,
+                0.8999999761581421
+            ],
+            "reloadRotation": [
+                -125.0999984741211,
+                -20.5,
+                158.89999389648438
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                8.100000381469727,
+                7.599999904632568,
+                -169.39999389648438
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_pkp00000": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.699999809265137,
+                0.4000000059604645,
+                -6.400000095367432
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": -12.399999618530273,
+                "magOffY": -2.5,
+                "magOffZ": 20.100000381469727,
+                "magSocket": "jnt_belt_tip",
+                "magX": 0.27000001072883606,
+                "magY": 0.2800000011920929,
+                "magZ": 0.1899999976158142
+            },
+            "reloadLocation": [
+                -8.100000381469727,
+                4.0,
+                2.0999999046325684
+            ],
+            "reloadRotation": [
+                -155.60000610351563,
+                -40.900001525878906,
+                157.39999389648438
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                8.199999809265137,
+                -6.099999904632568,
+                -171.6999969482422
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_pm": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.899999618530273,
+                1.600000023841858,
+                -3.5999999046325684
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": -1.600000023841858,
+                "magOffY": -0.20000000298023224,
+                "magOffZ": -17.799999237060547,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.05,
+                "magY": 0.1,
+                "magZ": 0.17000000178813934
+            },
+            "reloadLocation": [
+                -8.0,
+                0.8999999761581421,
+                -0.6000000238418579
+            ],
+            "reloadRotation": [
+                -118.19999694824219,
+                -34.0,
+                156.39999389648438
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                -5.5,
+                0.6000000238418579,
+                -175.6999969482422
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_ram2": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.5,
+                2.200000047683716,
+                -4.800000190734863
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 18.100000381469727,
+                "magOffY": 0,
+                "magOffZ": -10.600000381469727,
+                "magSocket": "jnt_bullet_shell",
+                "magX": 0.3499999940395355,
+                "magY": 0.1,
+                "magZ": 0.25999999046325684
+            },
+            "reloadLocation": [
+                9.699999809265137,
+                -4.699999809265137,
+                -4.0
+            ],
+            "reloadRotation": [
+                0.30000001192092896,
+                -18.299999237060547,
+                -5.5
+            ],
+            "reloadSocket": "jnt_grip",
+            "rotation": [
+                -1.2000000476837158,
+                -6.599999904632568,
+                -171.3000030517578
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_rhino00000": {
+            "disableReloadAttachment": false,
+            "location": [
+                9.699999809265137,
+                1.0,
+                -2.5999999046325684
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": -4.099999904632568,
+                "magOffY": -0.10000000149011612,
+                "magOffZ": 1.7999999523162842,
+                "magSocket": "jnt_drum",
+                "magX": 0.10999999940395355,
+                "magY": 0.1,
+                "magZ": 0.12999999523162842
+            },
+            "reloadLocation": [
+                -11.399999618530273,
+                0.800000011920929,
+                4.099999904632568
+            ],
+            "reloadRotation": [
+                -163.39999389648438,
+                -20.200000762939453,
+                181.1999969482422
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                13.5,
+                -5.900000095367432,
+                -168.1999969482422
+            ],
+            "scopeMagnifier": 0.15000000596046448,
+            "scopeOffset": 0.0010000000474974513,
+            "scopeScale": 0.024,
+            "socket": "jnt_r_hand"
+        },
+        "SK_rpg7": {
+            "location": [
+                9.300000190734863,
+                -0.20000000298023224,
+                -6.300000190734863
+            ],
+            "reloadLocation": [
+                -10.0,
+                2.200000047683716,
+                4.300000190734863
+            ],
+            "reloadRotation": [
+                -155.39999389648438,
+                -31.200000762939453,
+                156.39999389648438
+            ],
+            "rotation": [
+                0.20000000298023224,
+                0.6000000238418579,
+                -177.10000610351563
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_spsa00": {
+            "disableReloadAttachment": false,
+            "location": [
+                7.5,
+                2.4000000953674316,
+                -4.699999809265137
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 3.700000047683716,
+                "magOffY": -15.300000190734863,
+                "magOffZ": 1.2999999523162842,
+                "magSocket": "jnt_l_hand",
+                "magX": 0.11999999731779099,
+                "magY": 0.18000000715255737,
+                "magZ": 0.20000000298023224
+            },
+            "reloadLocation": [
+                -13.699999809265137,
+                6.400000095367432,
+                1.0
+            ],
+            "reloadRotation": [
+                -129.5,
+                -26.299999237060547,
+                157.0
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                -1.2000000476837158,
+                -7.599999904632568,
+                -173.0
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_svm": {
+            "disableReloadAttachment": false,
+            "location": [
+                11.5,
+                -0.20000000298023224,
+                -4.900000095367432
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -7.0,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.10999999940395355,
+                "magY": 0.09000000357627869,
+                "magZ": 0.20000000298023224
+            },
+            "reloadLocation": [
+                -13.0,
+                4.300000190734863,
+                -1.2000000476837158
+            ],
+            "reloadRotation": [
+                -125.0999984741211,
+                -35.29999923706055,
+                173.1999969482422
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                -4.400000095367432,
+                -17.299999237060547,
+                -166.6999969482422
+            ],
+            "scopeMagnifier": 0.03999999910593033,
+            "scopeOffset": 0.0020000000949949026,
+            "scopeScale": 0.03200000151991844,
+            "socket": "jnt_r_hand"
+        },
+        "SK_svu": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.600000381469727,
+                1.2000000476837158,
+                -4.599999904632568
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -7.900000095367432,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.14000000059604645,
+                "magY": 0.1,
+                "magZ": 0.3
+            },
+            "reloadLocation": [
+                -12.399999618530273,
+                4.199999809265137,
+                1.5
+            ],
+            "reloadRotation": [
+                -130.0,
+                -42.099998474121094,
+                181.1999969482422
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                0,
+                -12.600000381469727,
+                -171.5
+            ],
+            "socket": "jnt_r_hand"
+        },
+        "SK_udp": {
+            "disableReloadAttachment": false,
+            "location": [
+                9.0,
+                1.7000000476837158,
+                -4.199999809265137
+            ],
+            "magBox": {
+                "handOffX": -4.199999809265137,
+                "handOffY": 0.30000001192092896,
+                "handOffZ": -2.700000047683716,
+                "handRotX": 0,
+                "handRotY": 0,
+                "handRotZ": 11.0,
+                "handX": 0.17000000178813934,
+                "handY": 0.10999999940395355,
+                "handZ": 0.15000000596046448,
+                "magOffX": -0.8999999761581421,
+                "magOffY": 0.30000001192092896,
+                "magOffZ": -15.399999618530273,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.09000000357627869,
+                "magY": 0.10999999940395355,
+                "magZ": 0.1599999964237213
+            },
+            "reloadLocation": [
+                -8.800000190734863,
+                3.700000047683716,
+                1.899999976158142
+            ],
+            "reloadRotation": [
+                -158.60000610351563,
+                -42.099998474121094,
+                181.1999969482422
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                -2.799999952316284,
+                11.300000190734863,
+                -165.89999389648438
+            ],
+            "socket": "jnt_r_hand",
+            "twoHandBox": {
+                "offX": -6.300000190734863,
+                "offY": -2.299999952316284,
+                "offZ": 5.900000095367432,
+                "rotX": -5.0,
+                "rotY": 15.0,
+                "rotZ": -34.0,
+                "scaleX": 0.1599999964237213,
+                "scaleY": 0.10999999940395355,
+                "scaleZ": 0.18000000715255737,
+                "socket": "jnt_l_hand"
+            }
+        },
+        "SK_vip": {
+            "disableReloadAttachment": false,
+            "location": [
+                8.399999618530273,
+                2.5,
+                -3.799999952316284
+            ],
+            "magBox": {
+                "handOffX": -4.199999809265137,
+                "handOffY": 0.30000001192092896,
+                "handOffZ": -2.9000000953674316,
+                "handRotX": 0,
+                "handRotY": 0,
+                "handRotZ": 7.0,
+                "handX": 0.20999999344348907,
+                "handY": 0.10999999940395355,
+                "handZ": 0.17000000178813934,
+                "magOffX": 0,
+                "magOffY": 0,
+                "magOffZ": -4.599999904632568,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.05,
+                "magY": 0.1,
+                "magZ": 0.2199999988079071
+            },
+            "reloadLocation": [
+                -9.699999809265137,
+                2.0,
+                1.600000023841858
+            ],
+            "reloadRotation": [
+                -133.5,
+                -31.5,
+                175.10000610351563
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                -5.5,
+                7.599999904632568,
+                -171.6999969482422
+            ],
+            "socket": "jnt_r_hand",
+            "twoHandBox": {
+                "offX": -6.900000095367432,
+                "offY": -4.900000095367432,
+                "offZ": 2.0999999046325684,
+                "rotX": -27.0,
+                "rotY": -14.0,
+                "rotZ": -26.0,
+                "scaleX": 0.20999999344348907,
+                "scaleY": 0.10999999940395355,
+                "scaleZ": 0.18000000715255737,
+                "socket": "jnt_l_hand"
+            }
+        },
+        "SK_zubr0": {
+            "disableReloadAttachment": false,
+            "location": [
+                9.300000190734863,
+                -0.4000000059604645,
+                -2.0999999046325684
+            ],
+            "magBox": {
+                "handOffX": -4.2,
+                "handOffY": 0.3,
+                "handOffZ": -2.7,
+                "handRotX": 0.0,
+                "handRotY": 0.0,
+                "handRotZ": 7.0,
+                "handX": 0.17,
+                "handY": 0.11,
+                "handZ": 0.15,
+                "magOffX": -5.599999904632568,
+                "magOffY": 0.10000000149011612,
+                "magOffZ": -5.400000095367432,
+                "magSocket": "jnt_clip_base",
+                "magX": 0.17000000178813934,
+                "magY": 0.1,
+                "magZ": 0.18000000715255737
+            },
+            "reloadLocation": [
+                -13.199999809265137,
+                5.5,
+                1.600000023841858
+            ],
+            "reloadRotation": [
+                -122.9000015258789,
+                -45.5,
+                181.1999969482422
+            ],
+            "reloadSocket": "jnt_l_hand",
+            "rotation": [
+                0.5,
+                -8.199999809265137,
+                -165.10000610351563
+            ],
+            "socket": "jnt_r_hand"
+        }
+    },
+    "weaponSocketName": "jnt_r_hand"
+}
